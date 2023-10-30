@@ -9,12 +9,9 @@
   - Main control board
 - Pico Display Pack
   - Input:
-    - Button A
-    - Button B
-    - Button X
-    - Button Y
+    - *TBA
   - Output:
-    - 240x135 px IPS display
+    - ESP32-based 4.3 inch TFT Smart display
     - RGB LED
 - Sensors
   - Built-in temperature sensor

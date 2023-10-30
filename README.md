@@ -2,7 +2,7 @@
 [![License: GPLv3][GPLimg]][GPLurl]
 [![GitHub Tag][GHTimg]][GHTurl]
 
-### A Motorcycle Dashboard based on the [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/) and the [Pimoroni Pico Display Pack](https://shop.pimoroni.com/products/pico-display-pack)
+### A Motorcycle Dashboard based on the [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/) Transformed for Formula SAE Steering Wheel
 
 ## Components
 - Raspberry Pi Pico
